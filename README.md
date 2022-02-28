@@ -1,15 +1,15 @@
 # 💫About Me :
-🔭  I'm currently working on React, Nextjs, Go, Nodejs, Typescript, Javascript, Cybersecurity, Python, Docker
+## 🔭  I'm currently working on React, Nextjs, Go, Nodejs, Typescript, Javascript, Cybersecurity, Python, Docker
 
-👓 I'm looking to collaborate on cybersecurity, military grade projects and fun
+## 👓 I'm looking to collaborate on cybersecurity, military grade projects and fun
 
-🌱 I'm currently learning AI and neural engines with ML and scripting for automation.
+## 🌱 I'm currently learning AI and neural engines with ML and scripting for automation.
 
-🎙 Ask me about anything, i'll be glad to have a conversation.
+## 🎙 Ask me about anything, i'll be glad to have a conversation.
 
-⚡ Fun fact if you like anime we are already friends
+## ⚡ Fun fact if you like anime we are already friends
 
-## 🌐Socials
+# 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaurang._.shukla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurang-shukla-code99) 
 
 # 💻Tech Stack
